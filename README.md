@@ -6,6 +6,13 @@ A comprehensive .NET client library for ABB Robot Web Services (RWS) API.
 
 ABB RobotWare 6.16.
 
+<img width="1093" height="527" alt="image" src="https://github.com/user-attachments/assets/b62a7e82-9ac6-447a-9e30-1dc89836b32a" />
+
+🎬 Video Demos
+
+- YouTube: 
+- RuTube: 
+
 📋 Overview
 
 A feature-rich .NET client for interacting with ABB industrial robots through the Robot Web Services (RWS) REST API. This library provides easy-to-use methods for controlling and monitoring ABB robot controllers, supporting real-time operations and event-driven programming.
