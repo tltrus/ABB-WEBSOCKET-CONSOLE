@@ -11,7 +11,7 @@ ABB RobotWare 6.16.
 🎬 Video Demos
 
 - YouTube: https://youtu.be/RRN8mArFxMo
-- RuTube: 
+- RuTube: https://rutube.ru/video/091ef58245ecff8e50477f2d0f9cfc0f/
 
 📋 Overview
 
