@@ -8,6 +8,7 @@ A comprehensive .NET client library for ABB Robot Web Services (RWS) API
 - https://img.shields.io/badge/platform-ABB%2520RobotWare-brightgreen
 
 📋 Overview
+
 A feature-rich .NET client for interacting with ABB industrial robots through the Robot Web Services (RWS) REST API. This library provides easy-to-use methods for controlling and monitoring ABB robot controllers, supporting real-time operations and event-driven programming.
 
 ✨ Features
@@ -38,3 +39,18 @@ A feature-rich .NET client for interacting with ABB industrial robots through th
 - 🔔 Event Notifications - Subscribe to I/O changes
 - 🎯 Custom Subscriptions - Monitor specific resources
 - 🔄 Background Processing - Asynchronous event handling
+
+🏗️ Architecture
+
+📁 RWS_EN/
+├── 📄 RWS.cs           - Main client with HTTP/WebSocket
+├── 📄 Base.cs          - HTTP method implementations
+├── 📄 rapid.cs         - RAPID program control
+├── 📄 IOsystem.cs      - I/O signal operations
+├── 📄 ctrl.cs          - Controller information
+├── 📄 fileSystem.cs    - File system operations
+├── 📄 rw.cs            - System properties
+├── 📄 subscriptions.cs - WebSocket subscriptions
+├── 📄 ResponseTypes.cs - Data models (DTOs)
+└── 📄 Program.cs       - Example application
+
