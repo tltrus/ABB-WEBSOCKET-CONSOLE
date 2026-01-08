@@ -1,7 +1,10 @@
 # ABB-WEBSOCKET-CONSOLE
 
 🤖 RWS Robot Web Services Client for ABB Robots
-A comprehensive .NET client library for ABB Robot Web Services (RWS) API
+
+A comprehensive .NET client library for ABB Robot Web Services (RWS) API.
+
+ABB RobotWare 6.16.
 
 📋 Overview
 
